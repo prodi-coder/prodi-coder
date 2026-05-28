@@ -10,7 +10,8 @@
 - مفاهیم SaaS
 - طراحی تمیز و اصولی بک‌اند
 
-- 📫 چطور با من تماس بگیرد**prodi.coder@gmail.com**
+- 📫 چطور با من تماس بگیرد
+**prodi.coder@gmail.com**
 
 <h3 align="left">راه های ارتباطی من:</h3>
 <p align="left">
